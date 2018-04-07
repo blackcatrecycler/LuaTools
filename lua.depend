@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1516369324 source:f:\apk\lua\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"xxtea.cpp"
+
+1516285460 f:\apk\lua\xxtea.cpp
+	"xxtea.h"
+	<memory.h>
+	<stdlib.h>
+
+1516369488 f:\apk\lua\xxtea.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+
